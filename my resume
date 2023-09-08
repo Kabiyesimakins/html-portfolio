@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>My Resume</h1>
+    <hr>
+    <strong> <p></p>Uffeh Eno-obong Makins<br></strong>
+    web developer  <br>
+    <img src="images/Makins.JPG" alt="my pictures"> <br>
+    <a href="contact.html">contact me</a>
+    <hr>
+    <h2>Summary</h2>
+    <p>Building and maintainance of websites and web applications, using programming, design tools, and languages such as HTML, CSS, Python and JavaScript to meet both client and end-user needs.</p> <hr>
+    <h3>Education</h3>
+    <p> <li>University of uyo</li> 
+    Bsc Huaman anatomy <br> (2017-2023)</p>
+    <p> <li>University of uyo Teaching Hospital, School of Health information Management</li> 
+    National Diploma <br> (2014-2016)</p>
+    <p> <li>Command Secondary school Ipaja Lagos</li> 
+    West African Senior School Certificate 
+    <p><li>Nigerian Navy primary school, okomaiko Lagos</li>
+    (1999-2006)</p>
+    <hr>
+    <h3>Work Experience</h3>
+    <p> <li> Netisens Academy</li>
+    </p>
+    Digital Markerter <br> April-July 2023
+    <hr>
+    <h3>Skills</h3>
+    <p> <li>communication</li>
+        <li>Time management</li>
+        <li>Teamwork</li>
+        <li>Adaptability</li>
+        <li>Active Listening</li>
+        <li>Creativity</li>
+        <li>Attention to Details</li>
+        <hr>
+    </p>
+    <h3>Interest</h3>
+    <p> <li>Travelling</li>
+        <li>Coding</li>
+        <Li>content creation</Li>
+        <li>Music</li>
+    
+    </p>
+    
+
+        
+    </p>
+    
+</body>
+</html>
